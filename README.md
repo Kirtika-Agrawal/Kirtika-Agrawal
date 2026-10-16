@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kirtika 👋
 
-<!--
-**Kirtika-Agrawal/Kirtika-Agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student at VIT, currently learning full-stack development with Java and Spring Boot.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building my first full-stack projects
+- Practising DSA on LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm learning
+Java · Spring Boot · MySQL · React · Git
+
+## Projects
+Coming soon. I'll add links here as I build them.
+
+## Connect with me
+- LinkedIn: coming soon
