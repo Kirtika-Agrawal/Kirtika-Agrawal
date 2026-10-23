@@ -10,7 +10,7 @@ CSE student at VIT, currently learning full-stack development with Java and Spri
 Java · Spring Boot · MySQL · React · Git
 
 ## Projects
-Coming soon. I'll add links here as I build them.
+- [SlotSync](https://github.com/Kirtika-Agrawal/slotsync): finds the hour a whole study group is free, built from VIT slot timetables. Java, Spring Boot, MySQL and React.
 
 ## Connect with me
 - LinkedIn: coming soon
