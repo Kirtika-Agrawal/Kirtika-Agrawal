@@ -1,7 +1,5 @@
 # Hi, I'm Kirtika 👋
 
-CSE student at VIT, currently learning full-stack development with Java and Spring Boot.
-
 ## What I'm working on
 - Building my first full-stack projects
 - Practising DSA on LeetCode
